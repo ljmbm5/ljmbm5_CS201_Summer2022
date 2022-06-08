@@ -1,0 +1,11 @@
+#include <iostrem>
+//#include <cmath> //http://www.cplusplus.com/reference/clibrary/cmath/
+//#include <cstdlib> //https://cplusplus.com/reference/cstdlib/
+using namespace std;
+
+int main ()
+  {
+  //start coding here
+  
+  return 0
+  }
