@@ -1,0 +1,13 @@
+#include <iostrem>
+//#include <cmath> //http://www.cplusplus.com/reference/clibrary/cmath/
+//#include <cstdlib> //https://cplusplus.com/reference/cstdlib/
+//#include <ciso646> //allows python words //https://cplusplus.com/reference/ciso646/
+//#include <cstring>  // allows tools such as string concatenation and comparison //https://cplusplus.com/reference/cstring/
+using namespace std;
+
+int main ()
+  {
+  //start coding here
+
+  return 0
+  }
